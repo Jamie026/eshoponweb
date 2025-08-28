@@ -24,6 +24,8 @@ using Microsoft.IdentityModel.Tokens;
 
 // My second change
 
+// Testing my first PR
+
 var builder = WebApplication.CreateBuilder(args);
 builder.Logging.AddConsole();
 
